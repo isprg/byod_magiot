@@ -9,7 +9,7 @@
 ### フォルダの作成とダウンロード
 - `C:\`ドライブに`oit`という名前のフォルダを作成する
 - `oit-magiot20200502.exe` をダウンロードする
-- `C:\oit\` の中に`oit-magiot20200502.exe`を置いて実行する
+- `C:\oit\` の中に`oit-magiot20YYMMDD.exe`(YMDには年月日がはいる．最新のものをDLすること)を置いて実行する
 - 解凍先に`C:\oit\`を指定する．
 
 ### vscode, winpython, portablegit, nodeのインストール
